@@ -23,5 +23,5 @@ The project is implemented in Python using the TensorFlow library. The following
    Model Evaluation: Evaluate the trained model on the test dataset to assess its performance. Metrics such as accuracy, precision, recall, and F1-score can be calculated.
     Results Visualization: Visualize the performance of the model using plots or confusion matrices.
  Results
-The trained model achieves an accuracy of approximately  97%on the test dataset. Further details about the model's performance can be found in the results directory.
+The trained model achieves an accuracy of approximately  97%on the test dataset.
 
